@@ -1,0 +1,10 @@
+C:\Users\tayla\Desktop\Posting\Posting\bin\Debug\Posting.exe.config
+C:\Users\tayla\Desktop\Posting\Posting\bin\Debug\Posting.exe
+C:\Users\tayla\Desktop\Posting\Posting\bin\Debug\Posting.pdb
+C:\Users\tayla\Desktop\Posting\Posting\obj\Debug\Posting.csproj.AssemblyReference.cache
+C:\Users\tayla\Desktop\Posting\Posting\obj\Debug\Posting.Form1.resources
+C:\Users\tayla\Desktop\Posting\Posting\obj\Debug\Posting.Properties.Resources.resources
+C:\Users\tayla\Desktop\Posting\Posting\obj\Debug\Posting.csproj.GenerateResource.cache
+C:\Users\tayla\Desktop\Posting\Posting\obj\Debug\Posting.csproj.CoreCompileInputs.cache
+C:\Users\tayla\Desktop\Posting\Posting\obj\Debug\Posting.exe
+C:\Users\tayla\Desktop\Posting\Posting\obj\Debug\Posting.pdb
