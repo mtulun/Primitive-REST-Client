@@ -30,6 +30,7 @@ namespace Posting
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.txtRequestUri = new System.Windows.Forms.TextBox();
             this.btnHit = new System.Windows.Forms.Button();
             this.txtResponse = new System.Windows.Forms.TextBox();
@@ -183,7 +184,7 @@ namespace Posting
             this.AccessibleRole = System.Windows.Forms.AccessibleRole.Sound;
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Tomato;
+            this.BackColor = System.Drawing.Color.GhostWhite;
             this.ClientSize = new System.Drawing.Size(887, 512);
             this.Controls.Add(this.btnCopy);
             this.Controls.Add(this.btnClear);
@@ -201,9 +202,9 @@ namespace Posting
             this.Cursor = System.Windows.Forms.Cursors.Cross;
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
-            this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "REST Client ";
             this.ResumeLayout(false);

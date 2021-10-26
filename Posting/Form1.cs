@@ -1,4 +1,5 @@
-﻿using Posting.Http_Methods;
+﻿using Newtonsoft.Json;
+using Posting.Http_Methods;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -7,6 +8,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -86,5 +88,22 @@ namespace Posting
             postData.AutoSize = true;
             postData.Location = new Point(23, 51);
         }
+
+        #region Making Json Prettier
+        //private string PrettyJson(string strJson)
+        //{
+        //    var options = new JsonSerializerOptions()
+        //    {
+        //        WriteIndented = true
+        //    };
+        //    var jsonElement = JsonConvert.DeserializeObject<List<JsonPrettyLookingGood>>(strJson);
+        //    return System.Text.Json.JsonSerializer.Serialize(jsonElement, options);
+        //}
+
+        //private void btnDeserialize_Click(object sender, EventArgs e)
+        //{
+        //    PrettyJson(txtResponse.Text);
+        //}
+        #endregion
     }
 }

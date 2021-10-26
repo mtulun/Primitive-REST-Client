@@ -8,3 +8,6 @@ C:\Users\tayla\Desktop\Posting\Posting\obj\Release\Posting.csproj.CoreCompileInp
 C:\Users\tayla\Desktop\Posting\Posting\obj\Release\Posting.exe
 C:\Users\tayla\Desktop\Posting\Posting\obj\Release\Posting.pdb
 C:\Users\tayla\Desktop\Posting\Posting\obj\Release\Posting.csproj.AssemblyReference.cache
+C:\Users\tayla\Desktop\Posting\Posting\bin\Release\Newtonsoft.Json.dll
+C:\Users\tayla\Desktop\Posting\Posting\bin\Release\Newtonsoft.Json.xml
+C:\Users\tayla\Desktop\Posting\Posting\obj\Release\Posting.csproj.CopyComplete
